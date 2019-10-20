@@ -16,7 +16,7 @@
 .circle {
   fill: none;
   stroke: #000;
-  stroke-width: 9;
+  stroke-width: 25;
   stroke-miterlimit: 10;
 }
 
@@ -26,7 +26,7 @@
 .hour-marks {
   fill: none;
   stroke: #000;
-  stroke-width: 9;
+  stroke-width: 15;
   stroke-miterlimit: 10;
 }
 
